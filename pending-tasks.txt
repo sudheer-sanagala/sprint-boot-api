@@ -1,0 +1,3 @@
+
+1. Add exception handling. When queried for an unknown user, there is no response.
+2. During update, only the data-element specified in the request body should be updated. Currently it updates whole record with null
